@@ -1,4 +1,4 @@
-package Lesson3;
+package HWThree;
 
 import java.util.Arrays;
 
@@ -11,7 +11,7 @@ public class HomeWorkThree {
         changeArray();
         fillDiagonal();
         printLenIN(lenIn(4,4));
-      
+
     }
 
     public static void invertArr() {
